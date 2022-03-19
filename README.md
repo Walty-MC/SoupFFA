@@ -1,2 +1,3 @@
 # SoupFFA
-SoupFFA PocketMine-MP
+- Support: API-4
+- Easy Arena Settings
